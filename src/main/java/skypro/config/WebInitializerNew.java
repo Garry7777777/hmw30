@@ -2,6 +2,7 @@ package skypro.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
+
 public class WebInitializerNew extends AbstractAnnotationConfigDispatcherServletInitializer {
     protected Class<?>[] getRootConfigClasses() {
         return null;
